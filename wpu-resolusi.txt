@@ -3,3 +3,4 @@ WPU-RESOLUSI
 -Membuat platfrom untuk pengelolaan web
 -membuat forum diskusi
 -membuat aplikasi
+-tambah rajin ngoding
